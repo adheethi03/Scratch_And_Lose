@@ -1,5 +1,3 @@
-
-
 # Scratch & Lose 
 > Demotivating quotes revealed with every scratch
 
@@ -37,12 +35,14 @@ VS CODE
 *Project Documentation*
 
 *Screenshots*
-!screenshot1.png
+<img width=1200 alt="Screenshort of scratch card" src="screenshot1.png">
 _Caption: Initial scratch card view_
 
-!screenshot2.png
+<img width=1200 alt="Screenshort of after scratched" src="screenshot2.png">
 _Caption: Scratching reveals demotivating quote_
 
+<img width=1200 alt="Screenshort of another scratched card" src="screenshot3.png">
+_Caption: Scratching reveals another demotivating quote_
 
 *Team Contributions*
 - ADHEETHI: Frontend development
