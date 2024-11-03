@@ -45,7 +45,7 @@ _Caption: Scratching reveals demotivating quote_
 _Caption: Scratching reveals another demotivating quote_
 
 *Team Contributions*
-- ADHEETHI: Frontend development
-- Fathima Minha: Backend development
-- Minha Gafoor: Design and testing
+- ADHEETHI
+- Fathima Minha
+- Minha Gafoor
 
