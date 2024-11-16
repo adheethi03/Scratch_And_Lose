@@ -43,6 +43,8 @@ _Caption: Scratching reveals demotivating quote_
 
 <img width=1200 alt="Screenshort of another scratched card" src="screenshot3.png">
 _Caption: Scratching reveals another demotivating quote_
+*host link*
+<a href=" https://adheethi03.github.io/Scratch_And_Lose/">HOST LINK </a>
 
 *Team Contributions*
 - ADHEETHI
